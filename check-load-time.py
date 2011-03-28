@@ -16,7 +16,7 @@ URLS = {'host1.main.page' : 'http://host1.local/',
 
 # define carbon information
 CARBON_SERVER = 'graphite'
-CARBON_PORT = 2014
+CARBON_PORT = 2013
 PATHPREFIX = 'systems.'
 
 # get the time
