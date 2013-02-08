@@ -60,9 +60,9 @@ def sendtoCarbon(nowtime):
   print
 
 # send all the data to carbon
-sock.sendall(message)
+  sock.sendall(message)
 # close the socket
-sock.close()
+  sock.close()
 
 if __name__ == '__main__': 
 
